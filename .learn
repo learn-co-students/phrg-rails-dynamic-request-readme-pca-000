@@ -8,3 +8,4 @@ languages:
   - ruby
 type: 
   - readme
+parent_template: git@github.com:learn-co-curriculum/phrg-rails-dynamic-request-readme.git
