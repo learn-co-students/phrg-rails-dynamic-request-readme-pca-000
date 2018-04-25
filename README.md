@@ -148,4 +148,4 @@ We will go into detail on what the `resources` method does in a future lesson. F
 
 Run the tests for a final time, and they should still be passing! Nice work!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-dynamic-request-readme'>Rails Dynamic Request</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Rails Dynamic Request</p>
