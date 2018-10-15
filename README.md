@@ -148,4 +148,8 @@ We will go into detail on what the `resources` method does in a future lesson. F
 
 Run the tests for a final time, and they should still be passing! Nice work!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-dynamic-request-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-dynamic-request-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Dynamic Request</p>
